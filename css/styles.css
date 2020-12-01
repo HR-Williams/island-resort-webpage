@@ -1,3 +1,15 @@
 h1 {
-  color: goldenrod
+  color: rgb(115, 88, 165)
+}
+
+h3 {
+  color: rgb(88, 156, 165)
+}
+
+p {
+  font-family: serif
+}
+
+body {
+  background-color: rgb(226, 218, 205);
 }
